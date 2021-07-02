@@ -814,7 +814,7 @@ a {
 
 .footer .footer-box .footer-bottom .footer-left {
     width: 70%;
-    padding: 0 20px;
+    padding: 0 10px 0 20px;
 }
 
 .footer .footer-box .footer-bottom .footer-left p {
@@ -822,7 +822,7 @@ a {
 }
 
 .footer .footer-box .footer-bottom .footer-left p:last-child {
-    margin-top: 20px;
+    margin-top: 12px;
 }
 
 .footer .footer-box .footer-bottom .footer-right {
